@@ -14,7 +14,7 @@ var Modal = function Modal(_ref) {
     className: "saved",
     id: "saved"
   }, /*#__PURE__*/_react.default.createElement("button", {
-    class: "form-submit closeModal",
+    className: "form-submit closeModal",
     type: "button",
     onClick: close
   }, "X"), /*#__PURE__*/_react.default.createElement("h3", {

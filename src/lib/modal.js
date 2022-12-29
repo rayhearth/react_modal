@@ -5,7 +5,7 @@ const Modal = ({ close, message }) => {
 
     return (
         <div className="saved" id="saved">
-            <button class="form-submit closeModal" type="button" onClick={close}>X</button>
+            <button className="form-submit closeModal" type="button" onClick={close}>X</button>
             <h3 className="saved-message">{message}</h3>
         </div>
     )

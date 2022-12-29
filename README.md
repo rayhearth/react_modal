@@ -3,6 +3,7 @@
 ## Description
 A simple and reusable Modal component for React.
 
+![Getting Started](./public/react-modal.png)
 ## Installation
 
 Run the following command : 
