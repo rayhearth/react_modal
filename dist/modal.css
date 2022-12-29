@@ -5,6 +5,7 @@
     align-items: center;
     z-index: 50;
     top: 50%;
+    left: 25%;
     width: 50%;
     height: 150px;
     background-color: #5a7027;
@@ -16,9 +17,12 @@
 .closeModal {
     align-self: flex-end;
     padding: 5px 10px;
+    transition: all .5 ease-in-out;
 }
 .closeModal:hover {
     border: 1px solid white;
+    background-color: #5a7027;
+    opacity: 0.7;
 }
 .saved-message {
     margin-top: 20px;
