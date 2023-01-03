@@ -13,6 +13,10 @@
     "type": "git",
     "url": "https://github.com/rayhearth/react_modal.git"
   },
+  "keywords": [
+    "react",
+    "modal"
+  ],
   "devDependencies": {
     "@babel/cli": "^7.20.7",
     "@babel/core": "^7.20.7",
